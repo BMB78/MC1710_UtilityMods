@@ -1,20 +1,19 @@
-## 環境
+## 環境  
 - Minecraft : 1.7.10
 - Forge : Build 1614
----
 
-## 軽量化系
+## 軽量化系  
 |Mod名|DL|前提Mod|
-|-|:-:||
-|Better FPS|[CurseForge][3]||
-|Entity LagFix|[CurseForge][10]||
-|FastCraft|[CurseForge][12]||
-|FastLeafDecay|[CurseForge][13]||
-|Stackie|[CurseForge][23]|[LunatriusCore][101]|
+|---------------|:--------------:|--------------------|
+|Better FPS     |[CurseForge][3] ||
+|Entity LagFix  |[CurseForge][10]||
+|FastCraft      |[CurseForge][12]||
+|FastLeafDecay  |[CurseForge][13]||
+|Stackie        |[CurseForge][23]|[LunatriusCore][101]|
 
-## GUI改善
+## GUI改善  
 |Mod名|DL|前提Mod|
-|-|:-:||
+|---------------|:--------------:|--------------------|
 |Better Achievements|[CurseForge][2]||
 |Clean View|[CurseForge][5]||
 |Colorblind Helper|[CurseForge][6]||
@@ -23,7 +22,7 @@
 
 ## 視覚効果改善
 |Mod名|DL|前提Mod|
-|-|:-:||
+|---------------|:--------------:|--------------------|
 |Clean View|[CurseForge][5]||
 |FogNerf|[CurseForge][14]||
 |Fov Control|[CurseForge][15]||
@@ -31,7 +30,7 @@
 
 ## インベントリ操作
 |Mod名|DL|前提Mod|
-|-|:-:||
+|---------------|:--------------:|--------------------|
 |Crafting Tweaks|[CurseForge][7]||
 |Dual Hotbar|[CurseForge][8]||
 |Mouse Tweaks|[CurseForge][20]||
@@ -40,18 +39,18 @@
 
 ## NEI拡張
 |Mod名|DL|前提Mod|
-|-|:-:||
+|---------------|:--------------:|--------------------|
 |INpureCore|[CurseForge][18]||
 |Just Enough Calculation|[CurseForge][19]||
 
 ## 一括破壊系
 |Mod名|DL|前提Mod|
-|-|:-:||
+|---------------|:--------------:|--------------------|
 |VeinMiner|[CurseForge][28]||
 
 ## その他
 |Mod名|DL|前提Mod|
-|-|:-:||
+|---------------|:--------------:|--------------------|
 |Biome Tweaker|[CurseForge][4]||
 |EnderCore|[CurseForge][9]||
 |Extended Potions|[CurseForge][11]||
@@ -128,7 +127,12 @@
 [28]: http://minecraft.curseforge.com/projects/veinminer
 [29]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874
 [30]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=3835
+[101]: http://minecraft.curseforge.com/projects/lunatriuscore
+
+<!--
 [31]:
 [32]:
 []:
-[101]: http://minecraft.curseforge.com/projects/lunatriuscore
+-->
+
+
