@@ -1,0 +1,13 @@
+## Title: Default_filters
+## Author: BMB78
+## Version: 1.0
+AppliedEnergistics2.js
+Bibliocraft.js
+BuildCraft.js
+ExtraUtilities.js
+ForgeMicroblock.js
+Mekanism.js
+MFR.js
+Tcon.js
+ThermalExpansion.js
+vanilla.js
